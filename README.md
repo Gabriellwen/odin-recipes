@@ -1,0 +1,3 @@
+about to create a brute website... for beginners!
+
+we will be using html for starts and git to commit and push the document in github repo...
